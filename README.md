@@ -1,5 +1,7 @@
 # Lactel
 
+/!\ The code won’t be displayed because it’s a private project.
+
 ## The idea
 
 This is my first big project with Wonderstudios. It also is my first time working with Wordpress, I can’t wait to test that. I will create the front first and then make a Wordpress theme from it. The website needs to be responsive and will contain something like 8 pages. I got 10 days to do that so let’s get to work.
