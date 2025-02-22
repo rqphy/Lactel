@@ -8,6 +8,8 @@ This is my first big project with Wonderstudios. It also is my first time workin
 
 [Live](https://www.lactel.fr)
 
+![Home Lactel](https://juq1maqrjs.ufs.sh/f/r1m4dnkvsK4QVZZn0AZbODc6AFL2QrJse1TYB7lZEUChMkiS)
+
 ## The front-end
 
 It would have been the perfect site to use a Javascript framework, unfortunately the deadline is coming quick and my team doesn’t want to take the risk. I will style use scss thought and I’ll try to make my classes as reusable as I can. The technical specifications are well defined. All the animations are precise and we have all the mockups on adobe XD. I’ve use Figma before so I guess I’ll be ok.
